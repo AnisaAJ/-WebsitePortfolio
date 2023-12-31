@@ -38,13 +38,14 @@ body {
     color: #666;
     margin: 5px 0;
     font-family: 'Calligraffitti', cursive;
-    font-weight: normal;
+    font-weight: bold;
 }
 
 .occup {
     color: #666;
     margin: 5px 0;
     font-family: 'Abel', sans-serif;
+    font-weight: bold;
 }
 
 
