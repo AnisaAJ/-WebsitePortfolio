@@ -1,0 +1,93 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #BD89F3;
+    background-image: url('../PICS/background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+.about-me-container {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    padding: 20px;
+    max-width: 630px;
+    border-radius: 8px;
+    background-color: #D7BCF5;
+    color: #fff;
+}
+
+.about-me-container img {
+    border-radius: 50%;
+    margin-bottom: 20px;
+    width: 120px;
+
+}
+
+.about-me-container h1 {
+    font-size: 2em;
+    color: black;
+}
+
+.about-me-container .occup {
+    font-style: italic;
+    margin-bottom: 20px;
+    color: black;
+    font-weight: bold;
+}
+
+
+.about-me-container .description {
+    color: black;
+    font-size: 18px;
+    margin: 5px 0;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: bold;
+    text-align: justify;
+
+}
+
+
+.about-me-container .titleskills {
+    margin-bottom: 20px;
+    color: black;
+    font-weight: bold;
+}
+
+.about-me-container .skill-list {
+    font-size: 18px;
+    color: black;
+    margin: 5px 0;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: bold;
+    text-align: justify;
+
+}
+
+
+
+
+.about-me-container .home-button {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #A14FFC;
+    color: #fff !important;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 14px;
+    transition: background-color 0.3s ease;
+}
+
+.about-me-container .home-button:hover {
+    text-decoration: none;
+    background-color: #9057CF;
+}
+

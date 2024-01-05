@@ -53,16 +53,16 @@ body {
     list-style: none;
     padding: 0;
     font-family: 'Abel', sans-serif;
-    text-align: center; /* Center-align the social links */
+    text-align: center; 
     margin-left: 13px;
 }
 
 .portfolio-card .social-links li {
-    margin: 5px; /* Adjust the spacing between social links */
+    margin: 5px; 
 }
 
 .portfolio-card .social-links a {
-    display: inline-block; /* Ensure each link is on a new line */
+    display: inline-block; 
 }
 
 .portfolio-card a {
